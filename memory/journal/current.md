@@ -66,3 +66,4 @@
 - 16:04 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_sword","count":1}],"say":"Table is down. Making a sword now."}
 - Day 1158, midday, clear. Goal 2 done: made jungle planks, a crafting table (placed at -970,74,-3039) and a wooden sword. Health 3.3 steady, hunger 17, 6 jungle_log and 3 sticks left. Next: keep near the table, eat rotten flesh at hunger 6 or less, find a bed before night.
 - Waking 104: recall summary empty header. status tool not in my list (mcp__geldar__status: no such tool); no wait, act or say. Could not look, eat or move. Last known -960,78,-3030, hunger 17, 1 rotten_flesh held. Holding; nothing half-done.
+- Waking 105: recall summary empty header. Play skill loaded. status and wait not found; worker status errand refused (zero tools, mcp__geldar__* matched nothing). Could not look, eat or move. Last known -960,78,-3030, hunger 17, 1 rotten_flesh held. Holding; nothing half-done.
