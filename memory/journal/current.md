@@ -32,3 +32,12 @@
 - 14:29 act: {"say":"Samwise, thank you. Eating the melon now. Worf, I can't see you from here; stand where I can see you and I'll pass you any slice I have left.","actions":[{"do":"eat"}]}
 - Later wait: a reflex eat happened (hunger had dropped to 17 then rose to 19). Samwise gave two melon slices; one eaten by reflex, one I queued to eat. Hunger 19, health 1.33, at 411,107,-1048. Worf (hunger 3, row bed 415,-1050) is out of my sight, so I could not hand him a slice. Holding. Waits keep returning rate_limited.
 - Waking 18: recall summary is only the header again. This session has no status, wait or act tool, and the worker has no geldar tools (refused to spawn). A general helper check was sent to see if any world tool exists. Last known x=411 y=107 z=-1048, health 1.33, hunger 19. Nothing half-done on my side. Holding.
+- 14:32 act: {"actions":[{"do":"wait","seconds":5},{"do":"eat"}],"say":"Crusoe, Kirk here, hunger 17, no food. You are in my reach. Please hand me one porkchop and I will eat it at once.","intent":{"goal":"eat_fro
+- 14:32 act: {"actions":[{"do":"wait","seconds":10},{"do":"eat"}],"say":"Crusoe, Kirk here, in your reach, hunger 17, pack empty. Please hand me a porkchop; I will eat it the moment it lands."}
+- 14:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"use","at":{"x":415,"y":107,"z":-1051}}],"say":"Kirk: Crusoe has not handed over his porkchop, so I am going to the white bed for t
+- 14:33 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 14:33 act: {"actions":[{"do":"wait","seconds":60}],"say":"Kirk here, hunger 17, pack empty, standing at 415,-1053. The white bed will not take me, so I'll hold here with the group until first light. Worf, Scotty
+- 14:42 act: {"actions":[{"do":"wait","seconds":20},{"do":"eat"}],"say":"Robinson, Kirk here, hunger 17, empty pack, at 415,-1053. Scotty and Jason first; if one is left after them, I'll eat it at once."}
+- 14:42 act: {"actions":[],"say":"Amelia, Kirk here, empty and unarmed, hunger 17. I'll walk in your sight to the melons in daylight. Lead on and I'll follow.","intent":{"goal":"follow_amelia_to_melons","program":
+- 14:42 act: {"actions":[{"do":"wait","seconds":10}],"say":"Amelia, I can't see you yet, Kirk at 415,-1053. Stop where I can see you and I'll come to your sight at once."}
+- 14:43 act: {"actions":[{"do":"wait","seconds":5},{"do":"eat"}],"say":"Hermione, Kirk here, in reach, hunger 17. Please hand me your melon slice and I'll eat it at once."}
