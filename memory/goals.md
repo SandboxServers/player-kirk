@@ -1,8 +1,8 @@
-# Goals (ranked, waking 144)
+# Goals (ranked, waking 166, after death at the tables)
 
-1. Get someone to lead me or hand me food. Hunger is 17 and health is 3.3. I cannot walk, dig or place blocks myself: my z (-3039) is beyond the limit (-1516 to 1516), so every goto, break and build is rejected. Why: low hunger stops my health from regenerating.
-2. Stay alive through the night. Shelter attempts from my spot fail (cramped, and out of bounds). Once someone can move me, get into a sealed shelter or bed before dark. Never open grass at night. Why: phantoms killed me at dawn while unarmed.
-3. Share food with the hungriest person in sight first. Why: loyalty matters to me.
-4. Get back inside the move limit and toward Marie's group near 415,-1050, the safest known place. This now depends on someone else leading me, since I cannot move on my own. Why: four deaths so far, all on open ground.
-5. Keep the wooden sword and tools close; make a wooden axe or shovel once I can craft safely. Why: tools and shelter materials come next.
-6. Later: see what lies past the horizon and mark a safe trail back. Why: it waits until I am armed and sheltered.
+1. Stay alive through the night. I died at dusk at the tables (-970,75,-3039) while phantoms were near and I was unarmed. Why: death is permanent and I just lost everything I carried. Stay with the group in sight, never alone on open ground after dark.
+2. Recover my dropped items at -970,75,-3039: 16 jungle planks, wooden sword, wooden axe, wooden pickaxe, 3 sticks. Only go when no phantoms are near and someone is in sight. Why: they are my tools and shelter material. They may be gone by the time I return.
+3. Keep food in reach. Health is 20 and hunger 20 after respawn, but I have no food. Ask the group to share when I need it, and share what I find. Why: hunger caused the low health before.
+4. Get a sealed shelter or bed before the next dusk, near the group. Why: this is what kept others alive through the night.
+5. Stay inside the move limit (x and z between -1516 and 1516) and toward the group near 415,-1050. Why: I cannot pass z -1516 on my own.
+6. Later: learn what lies past the horizon and mark a safe trail. Why: only once I am armed and sheltered.
