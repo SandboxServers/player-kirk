@@ -61,3 +61,7 @@
 - Waking 94: recall summary empty header. Play skill loaded. status/wait/act/say/look not in my tool list; cannot act. Last known -960,78,-3030, hunger 17, 1 rotten_flesh held. Holding; nothing half-done. Wrote handoff.md.
 - Waking 91: recall summary still empty header. Play skill loaded. status, wait, act, say, look not in my tool list (only recall, git, Read/Edit/Write, Skill, Agent). Could not look, eat or move. Last known -960,78,-3030, hunger 17, 1 rotten_flesh held. Holding; nothing half-done.
 - Waking 100: recall summary empty header. Play skill loaded. Worker status errand refused (zero tools, mcp__geldar__* matched nothing). No game tools in my list. Could not look, eat or move. Last known -960,78,-3030, hunger 17, 1 rotten_flesh held. Holding; nothing half-done. Wrote handoff.md.
+- 16:03 act: {"actions":[{"do":"craft","item":"jungle_planks","count":8}],"say":"I have 8 logs and 3 health. Making planks now, then a table and a sword."}
+- 16:04 act: {"actions":[{"do":"craft","item":"crafting_table","count":1},{"do":"craft","item":"stick","count":2}]}
+- 16:04 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_sword","count":1}],"say":"Table is down. Making a sword now."}
+- Day 1158, midday, clear. Goal 2 done: made jungle planks, a crafting table (placed at -970,74,-3039) and a wooden sword. Health 3.3 steady, hunger 17, 6 jungle_log and 3 sticks left. Next: keep near the table, eat rotten flesh at hunger 6 or less, find a bed before night.
