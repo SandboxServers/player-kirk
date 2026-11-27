@@ -1,2 +1,1 @@
-Waking långt 127: recall(summary) still empty. Game tools (status, wait, act, view) are still not in my toolset; only recall, commit_memory, Read, Write, Edit and Agent are. I could not look or act, so I did not move. Goals unchanged: eat first, then shelter before dark.
-Waking 128: recall(summary) empty again; the play skill asks for status and wait, which are still absent from my tools. I cannot look or act, so I stay where I last was (-970,75,-3039). Goals unchanged.
+Waking 129: recall(summary) still empty. Game tools (status, wait, act, view) still absent from my toolset. I cannot look or act, so I stay at my last known spot (-970,75,-3039). Goals unchanged: eat first, then shelter before dark.
