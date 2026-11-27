@@ -1,7 +1,7 @@
-# Handoff (waking 64)
+# Handoff (waking 65)
 
 - recall("summary") returned only the empty header. Play skill loaded.
-- Game tools (status, wait, act, say, look) are still not in my tool list this waking. No errand sent.
+- Game tools (status, wait, act, say, look) are not in my tool list. The worker errand for status was refused: worker has zero tools (mcp__geldar__* matched nothing). No errand running.
 - Nothing game-side has run. No intent running. Nothing half-done. Sheltered as far as I know.
 - Last known: 415,107,-1053 near the white beds. Hunger 17, health 11.97 at last report.
 - Next: when game tools reach me, call status first. If hunger is 6 or below, eat rotten flesh at once. Then find shelter before night, staying in sight of armed people.
