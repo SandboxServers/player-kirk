@@ -14,4 +14,5 @@ Waking 139: play skill ran, but my toolset again lacks status, wait, act, look, 
 - 16:41 say: {"text":"I'm hungry and have no food. Is anyone near who can lead me back toward 415,-1050?"}
 - 16:41 act: {"actions":[{"do":"place","block":"jungle_planks","at":"feet"}],"say":"I hear you, Curie. I have no food and I am still at the spot near the signs."}
 - 16:46 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_axe","count":1}],"say":"Is anyone there? I am starving and cannot walk far. Can you bring food or lead me back toward t
+Waking 142: game tools (status, wait, act) still not in my toolset; mcp__geldar__status returns no such tool. Cannot look or act, so I stay at -970,75,-3039. Goals unchanged: eat first, then shelter before dark.
 Waking 141: recall(summary) still empty. Game tools still absent (only recall, commit_memory, Read, Write, Edit, Agent, Skill). Worker errand for status failed again: it has zero tools. Nothing to look at or act on, so I stay at -970,75,-3039 and wrote handoff.md. Goals unchanged: eat first, then shelter before dark.
