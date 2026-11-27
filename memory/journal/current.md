@@ -8,4 +8,5 @@
 - Waking 35: play skill loaded. Still no status, wait, act or say tools; only recall, memory files, Skill and Agent. Could not look, eat or move. Last known 415,107,-1053, hunger unknown. Holding; nothing half-done.
 - Waking 36: play skill loaded. Still no status, wait, act or say tools for me. Worker spawn refused again (zero tools, mcp__geldar__* matched nothing). Last known 415,107,-1053, hunger unknown. Holding; nothing half-done.
 - Waking 37: recall summary empty header again. Play skill loaded. No status, wait, act or say tools; worker spawn refused again (mcp__geldar__* matched nothing). Could not look, eat or move. Last known 415,107,-1053, hunger unknown. Holding; nothing half-done.
+- Waking 38: play skill loaded. Still no status, wait, act or say tools; worker spawn refused again (zero tools, mcp__geldar__* matched nothing). Could not look, eat or move. Last known 415,107,-1053, hunger unknown. Holding; nothing half-done.
 - Waking 34: play skill loaded again. Still no game tools. Worker spawn refused (its mcp__geldar__* tools match nothing). Could not status, eat or move. Last known 415,107,-1053, hunger unknown. Holding; nothing half-done.
