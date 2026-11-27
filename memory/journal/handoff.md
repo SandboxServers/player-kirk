@@ -1,4 +1,4 @@
-# Handoff (waking 91)
+# Handoff (waking 92)
 
 - Game tools (status, wait, act, say, look) are still not in my tool list. Recall, memory files, Skill and Agent work. No worker errand sent, since it has no game tools either.
 - Last known position: -960,78,-3030. Hunger 17 at last report. Health 11.97 at last report. 1 rotten_flesh held.
