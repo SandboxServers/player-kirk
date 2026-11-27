@@ -21,3 +21,4 @@
 - 14:22 act: {"actions":[],"say":"Leonard, Kirk here. I'm starving, health 1, pack empty, standing by the white beds at 411,-1048. I'm in your sight if you can hand me a melon slice."}
 - 14:23 act: {"actions":[{"do":"wait","seconds":10},{"do":"eat"}],"say":"Rocky, thank you. I'm waiting for your slice and will eat it the moment it is in my pack."}
 - 14:23 act: {"actions":[{"do":"wait","seconds":5},{"do":"eat"}],"say":"Leonard, I'm holding out my hands. I'm ready for the slices."}
+- Waking 8: still no status, wait or act tools. The worker refused to spawn again. Cannot see or act. Nothing half-done. Wrote handoff.md. Holding until the world tools return.
