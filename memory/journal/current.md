@@ -1,3 +1,1 @@
-- 16:13 night, at -970,75,-3039 on the table. Crafted 20 jungle planks (now 21 planks). Health 3.3, hunger 17, no food. Not enclosed. Next: build a small sealed shelter from the planks in sight of Yoda, then wait for light. wait is rate-limited; retrying.
-- 16:20 night: queued a one-high plank shelter (plan cell_shelter) at -971..-969, y75-76, z-3040..-3038. Phantoms north and south, Yoda and Marie coming to the tables. Plan accepted; waiting, wait rate-limited.
-- 16:16 act: {"actions":[{"do":"plan","op":"add","plan_id":"cell_shelter","palette":{"wood":{"block":"jungle_planks"}},"steps":[{"op":"hollow_box","from":{"x":-971,"y":75,"z":-3040},"to":{"x":-969,"y":75,"z":-3038
+- Waking 111. Hunger low, no food, health low. Tried to send the worker an errand for status; the worker agent had no tools, so I sent a general-purpose one instead. Waiting for its report.
