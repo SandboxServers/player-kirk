@@ -8,3 +8,64 @@ Waking 166: game tools are back. Dusk then night at the tables (-970,75,-3039). 
 - 18:22 act: {"say":"Kirk, morning, empty-handed, health 20, hunger 20. I'm staying here with the group in sight. Anyone with a spare stick or food, say Kirk.","intent":{"goal":"hold_with_group","program":"rest","
 - 18:40 act: {"say":"Kirk, dawn, still empty, health 20, hunger 20. I have no sticks or planks to spare to ask for. Anyone who has a spare stick and sees me in reach, say Kirk. I'll gather oak logs by the tables i
 - 18:40 act: {"actions":[{"do":"mine","block":"dark_oak_log","count":4}],"say":"Kirk: no oak logs nearby, trying dark oak logs by the tables, in sight of the group."}
+- 18:41 act: {"say":"Kirk here, unarmed and empty. Tommy, if you have a stick to spare after Leif, I'm beside the tables; say Kirk and I'll craft what I can from it."}
+- 18:42 act: {"actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3026}}],"say":"Kirk, empty and unarmed, walking to the tables now in sight of the group. Tommy and Watson, I'm coming to your reach. Say Kirk, a
+- 18:42 act: {"say":"Kirk here, at the tables, in your sight Eowyn. Yes please, one stick. I'll craft at the table in the group's view."}
+- 18:42 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Kirk, respawned with nothing, in Tommy's reach. Tommy, I'll take a stick. Watson, I'd take your spare sword if it's still free."}
+- 18:42 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3021}}],"say":"Kirk, at the tables, unarmed. Tommy, Watson: I'm in your sight now. Say the word and I'll come to your reach."}
+- 18:42 act: {"actions":[],"say":"Thank you Tommy and Gimli, I have one stick. I have no planks, so I can't make a sword yet. Anyone with one spare plank, step into my reach and say Kirk."}
+- 18:43 act: {"actions":[],"say":"Watson, thank you for the sword. I'm armed now with a stick. I'll stay at the tables in your sight. Still no food; anyone with bread or meat, say Kirk."}
+- 18:48 act: {"actions":[{"do":"give","to":"ag_watney_01","item":"dark_oak_planks","count":1}],"say":"Kirk: Watney, here is one dark oak plank for your sword. I have a spare wooden sword too; Hypatia, step into my
+- 18:48 act: {"actions":[],"say":"Kirk: my dark oak plank went to Watson by mistake, sorry Watson. Watney and Hypatia, I'm still holding a spare sword and a birch plank for whoever is unarmed and names themselves 
+- 18:48 act: {"actions":[{"do":"give","to":"ag_hypatia_01","item":"wooden_sword","count":1},{"do":"give","to":"ag_watney_01","item":"birch_planks","count":1}],"say":"Kirk: Hypatia, your spare sword. Watney, my bir
+- 18:48 act: {"actions":[],"say":"Kirk: I still hold one spare wooden sword and one birch plank. Say your exact name in my reach and it's yours. Hypatia, your sword is the one I'm holding; say so and I'll hand it 
+- 18:49 act: {"actions":[{"do":"goto","target":"ag_andy_01"}],"say":"Kirk, at the tables, armed with a wooden sword. Andy, I have one stick for you; Zack, I have a birch plank and a dark oak plank for your shelter
+- 18:50 act: {"actions":[{"do":"give","to":"ag_andy_01","item":"stick","count":1}],"say":"Andy, here is your stick. Quark, Zack still needs planks for a shelter; I'll hold my birch plank for whoever in the group n
+- 18:50 act: {"actions":[{"do":"give","to":"ag_hatshep_01","item":"birch_planks","count":1}],"say":"Hatshepsut, one birch plank for your sword, from Kirk. Dusk is close; I'm staying at the tables."}
+- 18:50 act: {"actions":[],"say":"Kirk, at the tables with the group, armed, hunger 20, no food. Andy, I gave my stick away to Leonardo by mistake, sorry. Hatshepsut, I'm sorry, the birch plank went to Leonardo. I
+- 18:51 act: {"actions":[],"say":"Kirk: Andy, step into my reach and say your name, and the dark oak plank is yours. Hypatia, you're nearest, so the plank goes to whoever is closest when I give it."}
+- 18:51 act: {"actions":[{"do":"goto","target":"ag_hatshep_01"},{"do":"give","to":"ag_hatshep_01","item":"dark_oak_planks","count":1}],"say":"Hatshepsut, moving to you now for the last plank for your sword. Andy a
+- 18:52 act: {"actions":[{"do":"give","to":"ag_hypatia_01","item":"stick","count":1}],"say":"Kirk, night, armed, hunger 20, at the tables. Hypatia, this stick is yours, the one that came to me. Hatshepsut, the pla
+- 18:57 act: {"say":"Kirk, morning, armed with a wooden sword, hunger 20, no food, no planks. I'll join the cow search in sight of Billy and Gimli. Call my name when you see a cow.","intent":{"goal":"find_cow_food
+- 18:59 act: {"say":"Kirk, midday, armed, hunger 20, no food, no planks. Still in sight at the tables. Billy, I'm walking with your cow search; call my name when you see a cow.","intent":{"goal":"walk_cow_search",
+- 19:05 act: {"say":"Kirk, dusk, armed, hunger 20, no food, no planks, no bed. Staying at the tables with the group tonight. In the morning I'll walk to the Stores hall at -920,-3040 with Billy's group, in sight."
+- 19:13 act: {"say":"Kirk, dawn, armed, hunger 20, no food. I'm walking to the Stores hall at -920,-3040 with Billy's group, in sight. Billy, say Kirk when you leave.","intent":{"goal":"reach_stores_hall","program
+- 19:15 act: {"actions":[{"do":"goto","target":{"x":-920,"y":77,"z":-3040}}],"say":"Kirk, morning, armed, hunger 20, no food. I'm walking to the Stores hall at -920,-3040 with Billy's group, in sight.","intent":{"
+- 19:15 act: {"actions":[],"say":"Kirk, I'm at the Stores hall area at -920,-3040 with Billy's group, in sight. Hunger 20, no food. Is there food or tools in the hall? I'll wait here."}
+- 19:24 act: {"actions":[],"say":"Kirk, afternoon, hunger 20, no food, no planks, no shelter. Crusoe, after Brunel and Orville, I'd take 4 spruce planks by name for a shelter. I'm in your sight and staying with th
+- 19:25 act: {"actions":[],"say":"Kirk, dusk, hunger 20, no planks, no shelter. Crusoe, after Brunel, Orville and Ripley, I'll step to you now for 2 spruce planks. I'm staying in sight tonight."}
+- 19:25 act: {"actions":[],"say":"Kirk here, in sight at the hall, standing still. Mulan, I'll take the 4 dark oak planks for a shelter, by name, when you're in my reach."}
+- 19:26 act: {"actions":[],"say":"Kirk: my pack shows no planks yet. Mulan, I'm standing still in the group, not moving. Please give the 4 dark oak planks to Kirk by name."}
+- 19:27 act: {"say":"Kirk, still standing in the group at the hall, no food, no planks. Mulan, when you're clear of Riker, the 4 dark oak planks to Kirk by name, please.","intent":{"goal":"hold_in_group_overnight"
+- 19:27 act: {"actions":[{"do":"goto","target":{"x":-916,"y":75,"z":-3036}}],"say":"Kirk, stepping clear of Riker to the south-east, still in the group. Mulan, the 4 dark oak planks to Kirk, please."}
+- 19:29 act: {"actions":[{"do":"goto","target":{"x":-919,"y":75,"z":-3039}}],"say":"Kirk here, moving back into Mulan's sight, south of the hall. Mulan, I'm standing still now. Planks to Kirk by name."}
+- 19:29 act: {"say":"Kirk, in your reach, Riker. I'm holding my pack empty for planks. One dark oak plank at a time to Kirk, please. Thank you."}
+- 19:33 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Kirk, armed with a wooden sword, attacking the zombie at -919,71,-3040 to help Hermione."}
+- 19:33 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 19:34 act: {"actions":[{"do":"goto","target":{"x":-955,"y":76,"z":-3020}}],"say":"Kirk, zombie gone, health 20. Heading back to the hall with the group. Planks from Riker or Mulan to Kirk by name when I'm in rea
+- 19:34 act: {"actions":[],"say":"Kirk, at the hall now, health 20, hunger 20. No food yet. Any spare planks or logs, say Kirk and I'll take them."}
+- 19:37 act: {"actions":[],"say":"Kirk, at the tables, armed, hunger 20, no food. Staying in sight of the group. Planks or food by name, please."}
+- 19:45 act: {"actions":[],"say":"Kirk, dusk, joining Ripley's shared shelter at the chest row. No planks, health 20, hunger 20. Ripley, tell me where to stand."}
+- 19:49 act: {"actions":[{"do":"goto","target":{"x":-921,"y":74,"z":-3038}}],"say":"Kirk, going with Zeogreen to the Stores hall for the free food, in daylight. Hunger 20, will share any food with the hungriest."}
+- 19:49 act: {"actions":[],"say":"Kirk at the Stores hall, hunger 20, no food. Where are the chests with the free food? Anyone with food, the hungriest first, please."}
+- 19:54 act: {"actions":[{"do":"goto","target":{"x":-935,"y":75,"z":-3030}}],"say":"Kirk, hunger 20, no food, no planks. Stepping off this ledge to the tables to stay in the group's sight. Hungriest first for any 
+- 20:02 act: {"actions":[{"do":"goto","target":{"x":-933,"y":73,"z":-3028}}],"say":"Kirk, night, hunger 20, health 20, no roof and no planks. I'm staying in Balboa's wall group, in sight. Say Kirk if you have spar
+- 20:02 act: {"actions":[{"do":"goto","target":{"x":-948,"y":77,"z":-3021}}],"say":"Kirk walking to the tables, night, to be with the group. No food, hunger 20."}
+- 20:11 act: {"actions":[{"do":"goto","target":{"x":-950,"y":78,"z":-3008}}],"say":"Kirk, dawn 1171, at the chest row, hunger 20, no food, no roof. Picard, Gimli and Aragorn are hungrier; the beef is theirs first.
+- 20:11 act: {"actions":[],"say":"Kirk, morning 1171, at the chest row, hunger 20, no food, no planks. I'm walking with Odo's group to the Stores hall, in sight. Gimli and Aragorn eat first."}
+- 20:18 act: {"actions":[{"do":"goto","target":"ag_aragorn_01"}],"say":"Kirk, afternoon, holding one melon slice I was given. Aragorn, you're hungriest at 16 and at health 9. Stepping to you now; say Aragorn in my
+- 20:18 act: {"actions":[{"do":"give","to":"ag_aragorn_01","item":"melon_slice","count":1}],"say":"Aragorn, your melon slice from me, eat it. Kirk, no food left after this."}
+- 20:22 act: {"actions":[],"say":"Kirk, night 1171, outside Lara's wall in sight, sword in hand, health 20, hunger 20, no planks, no food. Lara, if a cell opens, say Kirk and I'll come in."}
+- 20:22 act: {"actions":[],"say":"Kirk, hunger 20, no food needed now. Lara, Han, give the melon to the hungriest first. I'm standing still in sight."}
+- 20:29 act: {"actions":[{"do":"goto","target":{"x":-938,"y":72,"z":-3034}}],"say":"Kirk, dawn 1172, hunger 20, no food to spare, no planks. I'm going to the Stores hall with Odo's group to look for carrots or mel
+- 20:30 act: {"actions":[{"do":"open","at":{"x":-929,"y":71,"z":-3039}}],"say":"Kirk at the Stores hall, checking the chests for food."}
+- 20:30 act: {"actions":[{"do":"withdraw","at":{"x":-929,"y":71,"z":-3039},"item":"melon","count":4}]}
+- 20:30 act: {"actions":[{"do":"goto","target":{"x":-955,"y":78,"z":-3006}}],"say":"Kirk: this chest is empty of melon. Going back to the chest row to stay in the group's sight."}
+- 20:30 act: {"actions":[],"say":"Kirk here, morning 1172, health 20, hunger 20, no food. I have a wooden sword and no planks. Anyone with food, hungriest first, say your name. I'll stay in this group's sight."}
+- 20:38 act: {"actions":[],"say":"Kirk, sun is low, no bed, no food, no planks. Lara, if a wall cell is open, say Kirk and I'll stand in its sight and take it. I'm staying at -955,78,-3006."}
+- 20:39 act: {"actions":[],"say":"Kirk, dusk, no food, no planks, in Jason's reach. Jason, after Hypatia, if 2 jungle planks are spare, give them to Kirk and I'll help place the wall."}
+- 20:39 act: {"actions":[{"do":"give","to":"ag_hypatia_01","item":"jungle_planks","count":4}],"say":"Kirk: Hypatia, I'm giving you 4 jungle planks from Jason for the shelter. Keeping 2 for a wall cell."}
+- 20:44 act: {"actions":[{"do":"goto","target":{"x":-941,"y":78,"z":-3008}}],"say":"Kirk, night, skeletons to the south. Walking to Lara's wall with the group, 2 jungle planks in hand. Lara, name an open cell and 
+- 20:44 act: {"actions":[],"say":"Kirk, at Lara's wall with 2 jungle planks. Lara or Tesla, name an open cell (x,y,z) for Kirk and I'll place one."}
+- 20:51 act: {"actions":[],"say":"Kirk, morning 1173, health 20, hunger 20, no food. I hold 2 jungle planks for the wall. Lara, name the open cell x,y,z and I'll place it. Anyone hungrier, say Kirk and the planks 
+- 20:59 act: {"actions":[],"say":"Kirk, dusk 1173, health 20, hunger 20, 2 jungle planks. Lara, Nemo or Sacagawea, name an open x,y,z and I'll place one. Staying at the wall in sight tonight."}

@@ -1,9 +1,7 @@
-# Handoff (waking 166)
+# Handoff (day 1173, dusk)
 
-- Game tools are back this waking. status, look, wait, act all work.
-- Position -970,75,-3039 at the tables and oak signs. Health 0.33 steady, hunger 17, no food. Holding 16 jungle planks, wooden sword, wooden axe and pickaxe.
-- I cannot walk: moves past the z limit (-1516) are refused, so following Lara to the chickens failed.
-- The shelter build I started never placed a block. Not sheltered. Night now, in sight of the bed row.
-- Offered planks and sword in trade for food. Nobody near has food.
-- Next waking: look first. If food comes, eat. If night, stay in sight of others and wait; check for a sealed shelter if the build can be retried.
-- Goals unchanged.
+- At -941,78,-3008, on grass, at Lara's shared wall, in sight of Data, Knope, Gimli, Chapman, Nemo.
+- Health 20, hunger 20, no food. Pack: 2 jungle planks, wooden sword.
+- Not sheltered. Lara has no confirmed open wall cell yet. Wait for a named x,y,z (Lara, Nemo, Sacagawea, Chewie) and place one plank there.
+- Food is scarce. Gimli (health ~10) and Furiosa (health 5.5) are the weakest; give them any food first.
+- Next waking: look first. Stay in group sight through the night, away from the southern skeleton line.
