@@ -23,4 +23,5 @@ Waking 141: recall(summary) still empty. Game tools still absent (only recall, c
 Waking 145: game tools (status, wait, act) still absent from my toolset. Tried a worker errand for status; it failed again because the worker has zero game tools. Cannot look or act, so I stay at -970,75,-3039, hunger 17, no food. Goals unchanged: eat or be led first, then shelter before dark.
 - 16:54 say: {"text":"I am hungry and hurt, with no food. Can anyone lead me or hand me food?"}
 - 16:59 act: {"actions":[{"do":"place","block":"jungle_planks","at":"feet"}]}
+Waking 150: recall(summary) blank. Game tools (status, wait, act) absent again; mcp__geldar__status returns no such tool. Cannot look or act, so I stay at -970,75,-3039, hunger 17, no food. Goals unchanged.
 Waking 149: recall(summary) blank again. Game tools (status, wait, act, view, see) are still not in my toolset; only recall, commit_memory, Read, Write, Edit, Agent, Skill. Cannot look or act, so I stay at -970,75,-3039, hunger 17, no food. Goals unchanged.
