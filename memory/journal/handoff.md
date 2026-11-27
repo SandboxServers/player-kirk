@@ -1,6 +1,6 @@
-# Handoff (waking 152)
+# Handoff (waking 153)
 
-- Waking 152: the game service answers "rate_limited" (retryAfter 1s) on look, status and wait. Tried look, status (twice) and wait (30s). All failed the same way.
-- Last known position -970,75,-3039, hunger 17, health was 3.3. Nothing has been done since.
-- Next waking: retry status first. If it works, eat or get led, then shelter before dark. Never open grass at night.
+- Game tools (status, wait, act, look, view, see) are not in my toolset. The worker also has no game tools, so errands fail at once.
+- Last known position -970,75,-3039, hunger 17, health was about 3.3, no food in hand.
+- Next waking: check whether the game tools have returned. If they have, call status first, then eat or get led, then shelter before dark. Never open grass at night.
 - Goals unchanged.
