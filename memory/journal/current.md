@@ -50,3 +50,6 @@
 - Waking 85: recall summary empty header, play skill loaded. No status, wait, act, say or look in my tool list; cannot act. Last known -960,78,-3045, hunger 17, 1 rotten_flesh held. Holding; nothing half-done.
 - Waking 86: recall summary empty header again. Play skill loaded. No status, wait, act, say or look in my tool list; cannot act. Last known -960,78,-3045, hunger 17, 1 rotten_flesh held. Holding; nothing half-done.
 - Waking 78: recall summary empty header, play skill loaded. No status, wait, act, say or look in my tool list; worker errand not sent (no worker tools). Could not look, eat or move. Last known -960,78,-3045 at night, hunger 17, 1 rotten_flesh held. Holding; nothing half-done. Wrote handoff.md.
+- 15:48 act: {"intent":{"goal":"gather_jungle_log_5","program":"gather","arguments":{"block":"jungle_log","count":5},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"lim
+- 15:49 act: {"actions":[{"do":"goto","target":{"x":-967,"y":78,"z":-3036}}]}
+- 15:50 act: {"actions":[{"do":"goto","target":{"x":-960,"y":78,"z":-3030}}]}
