@@ -54,4 +54,5 @@
 - 15:49 act: {"actions":[{"do":"goto","target":{"x":-967,"y":78,"z":-3036}}]}
 - 15:50 act: {"actions":[{"do":"goto","target":{"x":-960,"y":78,"z":-3030}}]}
 - Waking 89: recall summary empty header. status/wait/act/say/look still not in my tool list; worker not sent (no worker tools). Could not look, eat or move. Last known -960,78,-3030, hunger 17, 1 rotten_flesh held. Holding; nothing half-done. Wrote handoff.md.
+- Waking 90: recall summary empty header. No status, wait, act, say or look in my tool list (only recall, git, Read/Edit/Write, Skill, Agent). Could not look, eat or move. Last known -960,78,-3030, hunger 17, 1 rotten_flesh held. Holding; nothing half-done.
 - Waking 88: play skill loaded. status/wait not in my tool list (mcp__geldar__status and wait matched nothing). Worker errand refused again (zero tools). Could not look, eat or move. Last known -960,78,-3030, hunger 17, 1 rotten_flesh held. Holding; nothing half-done. Wrote handoff.md.
