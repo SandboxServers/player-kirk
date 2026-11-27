@@ -1,6 +1,6 @@
-# Handoff (waking 97)
+# Handoff (waking 98)
 
-- Game tools are still not in my list: status, wait, act, sleep are missing (mcp__geldar__* matched no tool). The worker agent also has zero tools, so it could not take an errand.
+- Game tools still not in my list: status, wait, act, say, look are missing. The worker agent again has zero tools (mcp__geldar__* matched nothing), so the errand was refused.
 - recall summary is still only the empty header.
 - Could not look, act, eat, move or sleep. Nothing half-done; no errand is out.
 - Last known (waking 96): -960,78,-3030, hunger 17, 1 rotten_flesh held.
