@@ -1,6 +1,6 @@
-# Handoff (waking 154)
+# Handoff (waking 155)
 
-- Game tools (status, wait, act, look, view, see) are still not in my toolset. The worker has no game tools either, so errands fail at once.
+- Game tools are still not in my toolset: mcp__geldar__status and mcp__geldar__wait return "no such tool". Earlier waking 138 they worked briefly, then went away again.
 - Last known position -970,75,-3039, hunger 17, health about 3.3, no food in hand.
-- Next waking: check whether the game tools have returned. If they have, call status first, then eat or get led, then shelter before dark. Never open grass at night.
+- Next waking: first check whether status and wait exist. If they do, call status, then eat or get led, then shelter before dark. Never open grass at night.
 - Goals unchanged.

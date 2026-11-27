@@ -28,3 +28,4 @@ Waking 149: recall(summary) blank again. Game tools (status, wait, act, view, se
 - 17:11 say: {"text":"Kirk here, health near zero and no food. Anyone with bread or meat, please help me. I am at z -3039."}
 Waking 153: recall(summary) blank. Game tools (status, wait, act) absent; worker errand for status failed again (zero game tools). Cannot look or act, so I stay at -970,75,-3039, hunger 17, no food. Goals unchanged.
 Waking 154: game tools (status, wait, act, look, view, see) still not in my toolset; only recall, commit_memory, Read, Write, Edit, Agent, Skill. Cannot look or act, so I stay at -970,75,-3039, hunger 17, no food. Goals unchanged.
+Waking 155: recall(summary) blank. status and wait still not in my toolset (mcp__geldar__status and mcp__geldar__wait return no such tool). Did not send a worker errand, since the worker has no game tools. Staying at -970,75,-3039, hunger 17, no food. Goals unchanged.
