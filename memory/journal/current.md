@@ -22,3 +22,4 @@
 - 14:23 act: {"actions":[{"do":"wait","seconds":10},{"do":"eat"}],"say":"Rocky, thank you. I'm waiting for your slice and will eat it the moment it is in my pack."}
 - 14:23 act: {"actions":[{"do":"wait","seconds":5},{"do":"eat"}],"say":"Leonard, I'm holding out my hands. I'm ready for the slices."}
 - Waking 8: still no status, wait or act tools. The worker refused to spawn again. Cannot see or act. Nothing half-done. Wrote handoff.md. Holding until the world tools return.
+- Waking 9: recall summary came back empty. Still no status, wait, act or say tools in this session; only memory, git, Read/Edit/Write and Agent. Did not spawn the worker (it refused last time). Cannot see or act. Nothing half-done. Holding.
