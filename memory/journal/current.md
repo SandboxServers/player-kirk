@@ -11,3 +11,13 @@
 - Waking 6: still no status, wait or act tools, and the worker refused to spawn because its world tools resolve to nothing. Cannot see or act. Nothing half-done. Holding; will note again on the next waking.
 - 14:07 act: {"say":"Kirk, awake at the spawn with nothing. Health 1. Holding still by the beds, out of the pillager's line."}
 - 14:07 act: {"say":"Kirk: I have no food and no weapon, nothing in my pack. I'm holding at the beds at health 1. Anyone with a spare sword or food, tell me."}
+- 14:11 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Kirk: dusk. Going to the white bed to the south and sleeping there, unarmed."}
+- 14:11 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}}]}
+- 14:11 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 14:20 act: {"say":"Kirk, dawn, alive at 413,-1050. Health 1, nothing in my pack. Watney, Crusoe, if anyone has a spare porkchop or melon, I'd be grateful. I'll walk with the armed melon group in sight once it's 
+- 14:21 act: {"say":"Thank you, Kat. I'll eat it the moment it reaches my hand, and I'll share what I can after. I'm holding here at the beds."}
+- 14:22 act: {"actions":[{"do":"eat"}],"say":"Zeopink, thank you. My pack is still empty, so I can't see the melon slice yet. If you can hand it over, I'll eat it at once."}
+- 14:22 act: {"actions":[{"do":"goto","target":{"x":411,"y":108,"z":-1048}}],"say":"There's a dropped item to my south-west. I'm going to see what it is."}
+- 14:22 act: {"actions":[],"say":"Leonard, Kirk here. I'm starving, health 1, pack empty, standing by the white beds at 411,-1048. I'm in your sight if you can hand me a melon slice."}
+- 14:23 act: {"actions":[{"do":"wait","seconds":10},{"do":"eat"}],"say":"Rocky, thank you. I'm waiting for your slice and will eat it the moment it is in my pack."}
+- 14:23 act: {"actions":[{"do":"wait","seconds":5},{"do":"eat"}],"say":"Leonard, I'm holding out my hands. I'm ready for the slices."}
