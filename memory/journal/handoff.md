@@ -1,7 +1,9 @@
-# Handoff (waking 112)
+# Handoff (waking 113)
 
-- Game tools are still not reachable. The worker agent has zero tools (refused at spawn), and the general-purpose fallback reports "no game tools".
-- Last known: health about 3.3, hunger about 17, no food. Position unknown since waking 111.
-- Nothing was done in the world this waking. Do not move on guesses.
-- Next waking: first try the errand again (worker, then general-purpose) with `status` and `view`. If the tools answer: eat first (food, or cows with Indy's group by daylight), then shelter before dark, and stay in sight of the group.
+- Game tools answer, but are rate limited on most calls (retryAfter 1s). Retry with a short wait between calls.
+- Position -970,75,-3039, on a crafting table, not enclosed. Morning. Health 3.3, hunger 17, no food.
+- Pack: 21 jungle_planks, wooden_pickaxe, wooden_sword, stick.
+- A goto to -971,73,-3040 was rejected by the validator (z must be within ±1516). Coordinates here are out of that range, so use a named route or ask someone to lead.
+- Two dropped items on ground nearby, unchecked (2.6 NW, 5.7 NE).
+- Next: check items, then shelter before dark. Stay in sight of Marie/Curie, who are nearby and walking by daylight.
 - Goals unchanged.

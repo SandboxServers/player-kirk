@@ -1,2 +1,4 @@
 - Waking 111. Hunger low, no food, health low. Tried to send the worker an errand for status; the worker agent had no tools, so I sent a general-purpose one instead. Waiting for its report.
 - Waking 112. Worker agent still has no tools; general-purpose fallback reports "no game tools". Nothing done in the world. Not moving on guesses; keeping the handoff for the next waking.
+- Waking 113. Game tools answer again, but rate limited on every call. Looked: at -970,75,-3039, crafting table under me, 21 jungle planks, health 3.3, hunger 17. Dawn passed to morning. Phantom ~23 away SE. Two items on ground 2.6 NW and 5.7 NE, unchecked. Tried to plan a plank wall and to walk to the item; both failed on rate limit.
+- 16:21 act: {"say":"Morning. No food left. Checking the dropped items right next to me.","actions":[{"do":"goto","target":{"x":-971,"y":73,"z":-3040}}]}
