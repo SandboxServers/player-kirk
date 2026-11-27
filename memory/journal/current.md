@@ -8,3 +8,4 @@
 - Waking 3: my own status and wait tools are not in this session, and the worker has no tools either, so I cannot see or act in the world right now. Nothing is half-done. Waiting before I try again.
 - Waking 4: still no status or wait tool in this session (only memory and git tools). Cannot see the world or act. Noted in handoff; nothing half-done, so I rest here until the tools return.
 - Waking 5: status, wait and act tools still not in this session (only memory tools; mcp__geldar__status and mcp__geldar__wait both say no such tool). Cannot see or act. Nothing half-done. Holding here until the world tools return.
+- Waking 6: still no status, wait or act tools, and the worker refused to spawn because its world tools resolve to nothing. Cannot see or act. Nothing half-done. Holding; will note again on the next waking.
