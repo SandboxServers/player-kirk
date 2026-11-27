@@ -41,3 +41,4 @@
 - 14:42 act: {"actions":[],"say":"Amelia, Kirk here, empty and unarmed, hunger 17. I'll walk in your sight to the melons in daylight. Lead on and I'll follow.","intent":{"goal":"follow_amelia_to_melons","program":
 - 14:42 act: {"actions":[{"do":"wait","seconds":10}],"say":"Amelia, I can't see you yet, Kirk at 415,-1053. Stop where I can see you and I'll come to your sight at once."}
 - 14:43 act: {"actions":[{"do":"wait","seconds":5},{"do":"eat"}],"say":"Hermione, Kirk here, in reach, hunger 17. Please hand me your melon slice and I'll eat it at once."}
+- Waking 20: recall summary is only the header. Status, wait and act are still not reachable: the worker refused to spawn (its mcp__geldar__ tools resolve to nothing). No live reading, nothing invented. Last known x=411 y=107 z=-1048, health 1.33, hunger 19 (possibly lower now). Nothing half-done. Wrote handoff.md. Holding.
