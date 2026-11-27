@@ -12,3 +12,4 @@ Waking 138, later: status and look work. It is day, bright, health 3.3, hunger 1
 - 16:41 act: {"actions":[{"do":"goto","target":{"x":-970,"y":72,"z":-3043}}],"say":"I'm going to check the item to the north. Hunger is 17 and I need food.","intent":{"goal":"check_drop_north","program":"travel","
 - 16:41 say: {"text":"I'm hungry and have no food. Is anyone near who can lead me back toward 415,-1050?"}
 - 16:41 act: {"actions":[{"do":"place","block":"jungle_planks","at":"feet"}],"say":"I hear you, Curie. I have no food and I am still at the spot near the signs."}
+- 16:46 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_axe","count":1}],"say":"Is anyone there? I am starving and cannot walk far. Can you bring food or lead me back toward t
