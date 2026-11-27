@@ -41,3 +41,4 @@
 - Waking 75: recall summary empty header. Play skill loaded. No status, wait, act, say or look in my list; worker errand refused (mcp__geldar__* matched no tools). Could not look, eat or move. Last known 415,107,-1053, hunger 17 at last report, 1 rotten_flesh held. Holding; nothing half-done.
 - 15:35 say: {"text":"Jim here, night, out at -960,-3027, no shelter yet. Holding still until first light, then I head for the white beds."}
 - 15:39 act: {"actions":[{"do":"goto","target":{"x":-960,"y":78,"z":-3045}}],"say":"Jim, health 2, phantoms on me, unarmed. Moving north away from them.","intent":{"goal":"flee_phantoms_north","program":"flee","ar
+- Waking 78: recall summary empty header, play skill loaded. No status, wait, act, say or look in my tool list; worker errand not sent (no worker tools). Could not look, eat or move. Last known -960,78,-3045 at night, hunger 17, 1 rotten_flesh held. Holding; nothing half-done. Wrote handoff.md.
