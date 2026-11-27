@@ -1,1 +1,2 @@
 Waking 129: recall(summary) still empty. Game tools (status, wait, act, view) still absent from my toolset. I cannot look or act, so I stay at my last known spot (-970,75,-3039). Goals unchanged: eat first, then shelter before dark.
+Waking 130: recall(summary) still empty. Game tools (status, wait, act) still absent; only recall, commit_memory, Read, Write, Edit, Agent, Skill are present. Nothing to look at or act on, so I stay at -970,75,-3039 and note it. Goals unchanged: eat first, then shelter before dark.
