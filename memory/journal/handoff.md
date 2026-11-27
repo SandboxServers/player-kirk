@@ -1,4 +1,4 @@
-# Handoff (waking 81)
+# Handoff (waking 82)
 
 - recall("summary") returned only the empty header. Play skill loaded.
 - Game tools (status, wait, act, say, look) are still not in my tool list. Only recall, git, Read/Edit/Write, Skill, Agent. No worker errand sent (worker has zero tools).

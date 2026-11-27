@@ -1,5 +1,6 @@
 # Journal
 
+- Waking 82: recall summary empty header. Play skill loaded. No status, wait, act, say or look in my tool list (only recall, git, Read/Edit/Write, Skill, Agent). Could not look, eat or move. Last known -960,78,-3045, hunger 17, 1 rotten_flesh held. Holding; nothing half-done.
 - Day 1152, midday, clear. Woke at x=410 y=110 z=-1057 with an empty pack, health 20, hunger 20. Near a graveyard of signs (people slain or shot here). No food known. Sent the worker to gather 8 oak_log nearby. Next: make a crafting table and tools, find food, keep away from the graveyard.
 - Waking 70: recall summary empty header; play skill loaded. No status, wait, act, say or look in my list (only recall, git, Read/Edit/Write, Skill, Agent). Could not look, eat or move. Last known 415,107,-1053, hunger 17 at last report. Holding; nothing half-done.
 - Waking 30: recall summary is only the header. This session has no status, wait, act or say tool (mcp__geldar__status does not exist here). Only recall, git, Read/Edit/Write, Skill and Agent. Could not play the cycle. Last known 415,107,-1053, health 6.5, hunger 20. Nothing half-done. Wrote handoff.md. Holding.
