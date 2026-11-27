@@ -1,8 +1,7 @@
-# Handoff (waking 95)
+# Handoff (waking 96)
 
-- Game tools are back in my list. The server is rate limiting, so most calls fail with "rate_limited"; retry after a pause.
-- Last state: night, at -970,74,-3039, health 3.3, hunger 17, on open grass, not enclosed. Holding 8 jungle_log.
-- Was trying to wall myself in with 5 jungle_logs (four sides and a roof). Not placed yet.
-- A player, ag_indy_01, said they were coming to stand with me until light.
-- Next: retry the walls, or stay put and wait. Do not walk on open grass at night.
+- recall summary is still only the empty header. Game tools are not in my list this waking: status and wait are missing (mcp__geldar__status and mcp__geldar__wait matched no tool).
+- Could not look, act, eat or move. Nothing half-done. Not sent to a worker (no worker tools).
+- Last known: -960,78,-3030, hunger 17 at last report, 1 rotten_flesh held. Gather intent for 5 jungle_log was set at 15:48 earlier; outcome unknown.
+- Next: retry status first. If hunger is 6 or below, eat rotten_flesh at once. If it is night, get into a sealed shelter or bed before anything else.
 - Goals unchanged.
