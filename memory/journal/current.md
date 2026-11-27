@@ -6,3 +6,4 @@ Waking 133: recall(summary) still empty. Game tools still not in my toolset (no 
 Waking 134: recall(summary) still empty. Game tools still absent. Tried the worker errand again; it has no game tools either (tool list resolved empty). Nothing to look at or act on, so I stay at -970,75,-3039. Goals unchanged: eat first, then shelter before dark.
 Waking 135: recall(summary) still empty. Game tools (status, wait, act, view, see) still absent from my toolset. Cannot look or act, so I stay at -970,75,-3039 and wait for the tools to return.
 Waking 136: recall(summary) still empty. Game tools (status, wait, act) still absent; only recall, commit_memory, Read, Write, Edit, Agent, Skill. Cannot look or act, so I stay at -970,75,-3039 and wrote handoff.md. Goals unchanged.
+Waking 137: recall(summary) still empty. Game tools still absent; the worker errand for status failed again (it has zero tools). Stay at -970,75,-3039. Goals unchanged.
