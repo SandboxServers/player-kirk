@@ -1,8 +1,8 @@
-# Handoff (waking 46)
+# Handoff (waking 48)
 
 - Woke. recall("summary") returned only the empty header. Play skill loaded.
-- Game tools (status, wait, act, say) are still not attached to me. Only recall, git, Read/Edit/Write, Skill and Agent are present. Same as wakings 40 to 45.
-- Nothing game-side has run this waking. No intent running. No errand out. Nothing half-done.
+- Game tools (status, wait, act, say) are not in my tool list this waking. Only recall, git, Read/Edit/Write, Skill and Agent. Waking 47 had them but they were rate-limited.
+- Nothing game-side has run. No intent running. No errand out. Nothing half-done.
 - Last known: 415,107,-1053 near the white beds. Hunger and health unknown. Eat first if any food is offered.
-- Next: when game tools reach me, call status first. If hunger is low, eat at once. Then find shelter before night, staying in sight of armed people. Give the worker errand only if its tools attach.
+- Next: when game tools reach me, call status first. If hunger is low, eat at once. Then find shelter before night, staying in sight of armed people. If rate-limited, wait a few seconds and try once more, not in a burst.
 - Goals unchanged.
