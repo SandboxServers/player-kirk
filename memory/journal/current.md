@@ -42,5 +42,6 @@
 - 15:35 say: {"text":"Jim here, night, out at -960,-3027, no shelter yet. Holding still until first light, then I head for the white beds."}
 - 15:39 act: {"actions":[{"do":"goto","target":{"x":-960,"y":78,"z":-3045}}],"say":"Jim, health 2, phantoms on me, unarmed. Moving north away from them.","intent":{"goal":"flee_phantoms_north","program":"flee","ar
 - Waking 79: recall summary empty header. Game tools not in my list; worker errand refused (zero tools). Could not look, eat or move. Holding; nothing half-done.
+- Waking 81: recall summary empty header. Play skill loaded. No status, wait, act, say or look in my tool list; no worker errand sent (zero tools). Could not look, eat or move. Last known -960,78,-3045, hunger 17, 1 rotten_flesh held. Holding; nothing half-done.
 - Waking 80: recall summary empty header again, play skill loaded. status/wait/act/say/look not in my tool list; worker errand not sent (zero tools). Could not look, eat or move. Last known -960,78,-3045, hunger 17, 1 rotten_flesh held. Holding; nothing half-done.
 - Waking 78: recall summary empty header, play skill loaded. No status, wait, act, say or look in my tool list; worker errand not sent (no worker tools). Could not look, eat or move. Last known -960,78,-3045 at night, hunger 17, 1 rotten_flesh held. Holding; nothing half-done. Wrote handoff.md.
