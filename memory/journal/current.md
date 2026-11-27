@@ -53,3 +53,4 @@
 - 15:48 act: {"intent":{"goal":"gather_jungle_log_5","program":"gather","arguments":{"block":"jungle_log","count":5},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"lim
 - 15:49 act: {"actions":[{"do":"goto","target":{"x":-967,"y":78,"z":-3036}}]}
 - 15:50 act: {"actions":[{"do":"goto","target":{"x":-960,"y":78,"z":-3030}}]}
+- Waking 88: play skill loaded. status/wait not in my tool list (mcp__geldar__status and wait matched nothing). Worker errand refused again (zero tools). Could not look, eat or move. Last known -960,78,-3030, hunger 17, 1 rotten_flesh held. Holding; nothing half-done. Wrote handoff.md.

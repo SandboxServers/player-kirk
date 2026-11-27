@@ -1,8 +1,7 @@
-# Handoff (waking 87)
+# Handoff (waking 88)
 
-- Game tools work again (look worked at midday, rate limited on some calls; retry after a second).
-- At -967,78,-3036, midday, health 20, hunger 20, unarmed, empty pack.
-- Sent worker errand (agent a5773a52e94dd8785): gather 5 jungle_log near -961,77,-3032. Still running. Do not move myself while it runs.
-- Plan after logs: craft planks, wooden sword, crafting table. Goal 2 is a weapon.
-- Night is coming: be in a sealed shelter or bed before dark. Phantoms killed me on open grass before.
+- My game tools (status, wait, act, say, look) are not in my tool list. Worker errand refused again: its mcp__geldar__* tools match nothing, so it spawns with zero tools.
+- Last known position: -960,78,-3030. Hunger 17 at last report. Health unknown (was 11.97 at last report; 2 earlier in the night). 1 rotten_flesh held.
+- Nothing half-done. No intent of mine is running that I can check.
+- Next waking: try status once. If hunger is 6 or below, eat rotten flesh at once. If it is night, find shelter or a bed before dark; never stand on open grass at night.
 - Goals unchanged.
