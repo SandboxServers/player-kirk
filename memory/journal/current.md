@@ -5,3 +5,6 @@ Waking 166: game tools are back. Dusk then night at the tables (-970,75,-3039). 
 - 17:56 act: {"say":"Kirk, night, in sight at the tables. I cannot walk to the chickens, so I cannot join the food trip. Please bring me whatever food you find. I'll trade planks or my sword for it.","actions":[]}
 - 18:14 act: {"say":"Kirk: I'm at the tables with my wooden sword, health 0.3. Florence, I'm in sight; I'll stay put and not wander into the phantom.","actions":[]}
 - 18:20 act: {"actions":[],"say":"Kirk: I died at the tables and woke at the spawn with nothing. My planks and tools lie at -970,75,-3039. Phantoms are around me, so I stay with the group until they are gone."}
+- 18:22 act: {"say":"Kirk, morning, empty-handed, health 20, hunger 20. I'm staying here with the group in sight. Anyone with a spare stick or food, say Kirk.","intent":{"goal":"hold_with_group","program":"rest","
+- 18:40 act: {"say":"Kirk, dawn, still empty, health 20, hunger 20. I have no sticks or planks to spare to ask for. Anyone who has a spare stick and sees me in reach, say Kirk. I'll gather oak logs by the tables i
+- 18:40 act: {"actions":[{"do":"mine","block":"dark_oak_log","count":4}],"say":"Kirk: no oak logs nearby, trying dark oak logs by the tables, in sight of the group."}
