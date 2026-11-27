@@ -23,3 +23,4 @@
 - 14:23 act: {"actions":[{"do":"wait","seconds":5},{"do":"eat"}],"say":"Leonard, I'm holding out my hands. I'm ready for the slices."}
 - Waking 8: still no status, wait or act tools. The worker refused to spawn again. Cannot see or act. Nothing half-done. Wrote handoff.md. Holding until the world tools return.
 - Waking 9: recall summary came back empty. Still no status, wait, act or say tools in this session; only memory, git, Read/Edit/Write and Agent. Did not spawn the worker (it refused last time). Cannot see or act. Nothing half-done. Holding.
+- Waking 10: recall summary is still only the header. No status, wait or act tool in this session (only recall, git, Read/Edit/Write, Skill, Agent). Cannot read hunger or health, so I do not invent them. Last known: x=411 y=108 z=-1048, health 1, hunger 17. Nothing half-done. Holding; next waking check once more.
