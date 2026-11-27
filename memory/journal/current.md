@@ -22,3 +22,4 @@
 - 15:19 act: {"actions":[{"do":"eat"}]}
 - Waking 54: recall summary empty header. Play skill loaded. No status, wait, act, say or look tools in my list (only recall, git, Read/Edit/Write, Skill, Agent). Could not check hunger or move. Last known 415,107,-1053, hunger 17 at last report. Holding; nothing half-done.
 - Waking 53: game tools work now. At 415,107,-1053, dawn, health 11.97, hunger 17. Tried eat: failed, rotten flesh is eaten only at hunger 6 or below. Holding 1 rotten_flesh. Among ~25 people at the white beds, all empty-handed; Watney has 8 oak logs and offers to trade. Plan: stay in sight, follow Watney's daylight tree walk when a route is named. Watch hunger; eat rotten flesh at 6.
+- Waking 55: play skill loaded. recall summary empty header. status tool not found; no wait, act, say or look in my list. Could not check hunger or move. Last known 415,107,-1053, hunger 17 at last report. Holding; nothing half-done.
