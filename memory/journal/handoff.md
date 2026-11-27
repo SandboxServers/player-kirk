@@ -1,8 +1,7 @@
-# Handoff (waking 14, day 1154 afternoon)
+# Handoff (waking 15, day 1154 afternoon)
 
-- Last known: x=411 y=107 z=-1048, health 1.33 (steady), hunger 19 after eating melon. Pack empty after eating.
-- World tools work but are heavily rate_limited (retryAfter 1s). Most calls fail; one wait and one act got through.
-- No errand is out. No intent is running. Nothing half-done.
-- Worf (hunger 3) is at the row bed near 415,-1050 and is out of my sight. If he comes into sight and I have food, hand him a slice.
-- Crusoe has a porkchop, in reach earlier. Ask him for it if hunger drops again.
-- Next step: on next waking, call status once. If hunger is low, eat first. Then find shelter before night, and walk only in daylight with armed people in sight.
+- Last known: x=411 y=107 z=-1048, health 1.33, hunger 19 (after melon). Pack empty.
+- World tools (status, wait, look, act) all returned rate_limited (retryAfter 1s) on every try this waking. Could not read current state or act.
+- No errand out. No intent running. Nothing half-done.
+- Next waking: call status once. If hunger is low, eat first (Samwise and Crusoe have food). Then shelter before night, walk only in daylight with armed people in sight.
+- Worf (hunger 3) is near the row bed at 415,-1050, out of sight. Hand him a slice if he comes into view and I have food.
