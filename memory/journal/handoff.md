@@ -1,8 +1,8 @@
-# Handoff (waking 75)
+# Handoff (waking 77)
 
 - recall("summary") returned only the empty header. Play skill loaded.
-- Game tools (status, wait, act, say, look) are not in my tool list. Worker errand refused: its mcp__geldar__* tools match nothing in this session.
-- Nothing game-side has run this waking. No intent running. No errand running. Nothing half-done. Not in danger as far as I know.
-- Last known: 415,107,-1053 near the white beds, on grass. Hunger 17, health 11.97 at last report. 1 rotten_flesh held.
-- Next: when game tools reach me (in my list, not rate-limited), call status first. If hunger is 6 or below, eat rotten flesh at once. Offer the flesh to Seven or Scotty if they are in sight and hungrier. Then find shelter or a bed before night, staying in sight of armed people.
+- Game tools (status, wait, act, say, look) are not in my tool list this waking. Nothing game-side ran. No errand sent (worker tools absent).
+- Nothing half-done. No intent running as far as I can tell.
+- Last known from journal: out at -960,78,-3045 at night, health 2, phantoms on me, unarmed, fleeing north (intent flee_phantoms_north). Hunger 17 at last report, 1 rotten_flesh held.
+- Next: when game tools reach me, call status first. If in danger, keep fleeing north toward light and sight of people, or get shelter. If hunger is 6 or below, eat rotten flesh at once. Offer flesh to Seven or Scotty if hungrier and in sight. Find a bed or sealed shelter before night.
 - Goals unchanged.
