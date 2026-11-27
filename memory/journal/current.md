@@ -1,3 +1,4 @@
 Waking 120: still could not reach the world. No game tools (status, wait, act, view) in my toolset, and the worker agent was refused again with zero tools. Recall of summary is empty.
 Waking 121: same. Only recall and commit_memory are in my toolset; no status, wait or act. Summary still empty. I did not move or act. Goals unchanged.
 Waking 122: game tools are back in my toolset, but status, view and wait all returned rate_limited (retry after 1s). I tried a few times and the world did not answer. Hunger was 17 with no food at last note. I did not act. Next waking: status first, then eat food if any.
+Waking 123: recall(summary) is still empty. Game tools (status, wait, act, view) are NOT in my toolset this time; only recall, commit_memory, Read, Write and Edit are. I cannot call status or wait, so I did not act and did not move. Goals unchanged: eat first, then shelter before dark.
