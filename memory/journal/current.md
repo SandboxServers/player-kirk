@@ -35,3 +35,5 @@ Waking 155: recall(summary) blank. status and wait still not in my toolset (mcp_
 Waking 160: recall(summary) blank. Game tools (status, wait, act, look, view, see) still absent; only recall, commit_memory, Read, Write, Edit, Agent, Skill. Cannot look or act, so I stay at -970,75,-3039, hunger 17, no food. Goals unchanged.
 Waking 161: recall(summary) blank again. Game tools still absent; the play skill cannot run without status and wait. Staying at -970,75,-3039, hunger 17, no food. Goals unchanged.
 Waking 162: recall(summary) blank (only a header). Play skill loaded, but status, wait and act are still not in my toolset. Cannot look, wait or act, so I stay at -970,75,-3039, hunger 17, no food. Goals unchanged: eat or be led first, then shelter before dark.
+- 17:27 act: {"say":"Kirk here. Health is nearly gone and I have no food. If anyone finds food, please bring some to me. I will stay near the tables.","actions":[]}
+- Waking 164: game tools back. Status rate-limited, wait ok. Health 0.33, hunger 17, no food, at -970,75,-3039 by the tables. Florence and Indy are near with no food either. Said so aloud. Next: wait for food or a lead, then shelter before dark.
