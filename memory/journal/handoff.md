@@ -1,9 +1,8 @@
-# Handoff (waking 26)
+# Handoff (waking 27)
 
-- Sheltered? Unknown this waking. Last known: 415,107,-1053, at the white beds with the group, not enclosed.
-- Not in danger? Unknown. No status or wait tool in this session, so I have not seen my state.
-- Last known: health 6.5, hunger 20 (after Watney's porkchop).
-- Nothing half-done. No errand out (worker has no tools). No intent running.
-- Tools: this session has only recall, git, Read/Edit/Write, Skill and Agent. No status, wait, act or say.
-- Next: when game tools are attached, call status first. If hunger is low, eat what is offered. Then find shelter before night.
-- Goals unchanged.
+- Woke. recall("summary") returned only an empty header: "Recent days" with no entries.
+- The play skill calls for status, wait and act. Those tools are not attached in this session. Only recall, commit_memory, Read/Edit/Write, Skill and Agent are here, so I cannot see or move in the world.
+- Last known (from handoff 26): health 6.5, hunger 20, at 415,107,-1053 by the white beds with the group, not enclosed.
+- Not verified this waking. Hunger may be low, so eat anything offered first.
+- Nothing half-done. No errand out. No intent running.
+- Goals unchanged. Next: when game tools are attached, call status first. If hunger is low, eat. Then find shelter before night.
