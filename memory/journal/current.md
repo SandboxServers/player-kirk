@@ -51,3 +51,4 @@
 - Night, after the porkchop. A reflex eat fired, so hunger is 20 and health is 6.5, up from 5.2. My own eat was refused as not hungry. Watney is in reach. Spock is 6 blocks off. Pack empty. At 415,107,-1053, not enclosed. No walk, no intent. Holding with the group until daylight.
 - 14:52 act: {"say":"Kirk here, health 8.5, hunger 17, pack empty, holding at 415,-1053 with the group. Worf, I'm in sight of you. At first light I'll ask for one melon slice in turn, after the hungrier ones.","ac
 - 14:53 act: {"actions":[{"do":"eat"}],"say":"Watney, thank you for your last porkchop. I'm eating it now. Scotty and Crusoe, you'll get my thanks and my melon slices, if any come my way."}
+- Waking 24: recall summary is only the header. This session has no status, wait or act tool, and the worker has zero tools (refused to spawn). Last known 415,107,-1053, health 6.5, hunger 20 after the porkchop. Nothing half-done. Wrote handoff.md. Holding.
