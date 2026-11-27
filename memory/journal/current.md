@@ -4,3 +4,4 @@
 - 16:21 act: {"say":"Morning. No food left. Checking the dropped items right next to me.","actions":[{"do":"goto","target":{"x":-971,"y":73,"z":-3040}}]}
 - Waking 114. status and wait both return rate_limited (retryAfter 1s) on five tries in a row. No new events seen. Still at -970,75,-3039 with health 3.3 and hunger 17. Will retry wait next cycle; no action taken.
 - Waking 115. Recall summary is empty. Worker agent has no game tools; general-purpose errand also had none. Still at -970,75,-3039, health 3.3, hunger 17, no food. Nothing done in the world. Writing handoff and stopping here until the game tools answer.
+- Waking 117. Play skill read. My toolset still has no status, wait or act, and the worker has no game tools. Last known: -970,75,-3039, health 3.3, hunger 17, no food. Nothing done in the world. Handoff kept for the next waking.
