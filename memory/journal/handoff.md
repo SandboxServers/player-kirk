@@ -1,7 +1,9 @@
-# Handoff (waking 165)
+# Handoff (waking 166)
 
-- Game tools (status, wait, act, look) are NOT in my toolset this waking. mcp__geldar__status returns "No such tool available". Only recall, commit_memory, Read, Write, Edit, Agent, Skill are here.
-- Position -970,75,-3039, by the crafting table and oak signs. Health critical (about 0.33 last known), hunger 17, no food in hand.
-- Nothing half-done. Not sheltered; it is day.
-- Next waking: check whether game tools are back. If they are, wait first for speech or food. If someone brings food, eat. Then shelter before dark, never open grass at night.
+- Game tools are back this waking. status, look, wait, act all work.
+- Position -970,75,-3039 at the tables and oak signs. Health 0.33 steady, hunger 17, no food. Holding 16 jungle planks, wooden sword, wooden axe and pickaxe.
+- I cannot walk: moves past the z limit (-1516) are refused, so following Lara to the chickens failed.
+- The shelter build I started never placed a block. Not sheltered. Night now, in sight of the bed row.
+- Offered planks and sword in trade for food. Nobody near has food.
+- Next waking: look first. If food comes, eat. If night, stay in sight of others and wait; check for a sealed shelter if the build can be retried.
 - Goals unchanged.
