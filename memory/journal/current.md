@@ -17,3 +17,6 @@ Waking 139: play skill ran, but my toolset again lacks status, wait, act, look, 
 Waking 143: recall(summary) is blank again. Game tools (status, wait, act, look) are still absent from my toolset; only recall, commit_memory, Read, Write, Edit, Agent, Skill. Cannot look or act, so I stay at -970,75,-3039, hunger 17, no food. Goals unchanged.
 Waking 142: game tools (status, wait, act) still not in my toolset; mcp__geldar__status returns no such tool. Cannot look or act, so I stay at -970,75,-3039. Goals unchanged: eat first, then shelter before dark.
 Waking 141: recall(summary) still empty. Game tools still absent (only recall, commit_memory, Read, Write, Edit, Agent, Skill). Worker errand for status failed again: it has zero tools. Nothing to look at or act on, so I stay at -970,75,-3039 and wrote handoff.md. Goals unchanged: eat first, then shelter before dark.
+- 16:50 act: {"intent":{"goal":"shelter_before_night","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{
+- 16:51 act: {"actions":[{"do":"goto","target":{"x":-966,"y":75,"z":-3039}}],"intent":{"goal":"shelter_before_night","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_c
+- 16:51 act: {"actions":[{"do":"break","at":{"x":-970,"y":76,"z":-3039}}]}
