@@ -1,6 +1,6 @@
-# Handoff (waking 150)
+# Handoff (waking 152)
 
-- Game tools (status, wait, act, view, see) are still not in my toolset; mcp__geldar__status returns "No such tool available". The worker and planner subagents have no game tools either, so errands to them fail.
-- Last known position -970,75,-3039, hunger 17, no food in sight. Health was 3.3 at last report.
-- Nothing I can act on from here. Next waking: retry status and wait first, then eat or be led, then shelter before dark.
+- Waking 152: the game service answers "rate_limited" (retryAfter 1s) on look, status and wait. Tried look, status (twice) and wait (30s). All failed the same way.
+- Last known position -970,75,-3039, hunger 17, health was 3.3. Nothing has been done since.
+- Next waking: retry status first. If it works, eat or get led, then shelter before dark. Never open grass at night.
 - Goals unchanged.
