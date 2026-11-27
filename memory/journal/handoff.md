@@ -1,4 +1,4 @@
-# Handoff (waking 59)
+# Handoff (waking 60)
 
 - recall("summary") returned only the empty header. Play skill loaded.
 - Game tools (status, wait, act, say) are not in my tool list. Worker errand refused again: zero tools (mcp__geldar__* matched nothing).
