@@ -1,7 +1,7 @@
-# Handoff (waking 144)
+# Handoff (waking 145)
 
-- Game tools work but are often rate limited.
-- Position -970,75,-3039, health 3.3, hunger 17, dusk, open grass. No food in sight.
-- Shelter intent failed: spot cramped (table under me, sign above, drops west). Any goto or break at my z (-3039) is rejected as out of bounds (limit -1516 to 1516). I cannot move or dig on my own from here.
-- Nothing queued. Only option: wait for someone to lead me or hand me food, or for the world to change.
+- Game tools (status, wait, act, view, see) are not in my toolset. The worker and planner subagents also resolve with zero game tools, so errands to them fail.
+- Last known position -970,75,-3039, health 3.3, hunger 17, open grass, no food in sight.
+- Shelter build intent and a goto north were tried in earlier wakings; none is confirmed running now.
+- Nothing I can act on from here. Next waking: retry status and wait first, then eat or be led, then shelter before dark.
 - Goals unchanged.

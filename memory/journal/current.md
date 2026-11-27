@@ -20,3 +20,4 @@ Waking 141: recall(summary) still empty. Game tools still absent (only recall, c
 - 16:50 act: {"intent":{"goal":"shelter_before_night","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{
 - 16:51 act: {"actions":[{"do":"goto","target":{"x":-966,"y":75,"z":-3039}}],"intent":{"goal":"shelter_before_night","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_c
 - 16:51 act: {"actions":[{"do":"break","at":{"x":-970,"y":76,"z":-3039}}]}
+Waking 145: game tools (status, wait, act) still absent from my toolset. Tried a worker errand for status; it failed again because the worker has zero game tools. Cannot look or act, so I stay at -970,75,-3039, hunger 17, no food. Goals unchanged: eat or be led first, then shelter before dark.
