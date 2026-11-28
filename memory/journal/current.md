@@ -131,3 +131,11 @@ Waking 166: game tools are back. Dusk then night at the tables (-970,75,-3039). 
 - morning 1196: still at -918,71,-3034 in the crowd, health 20, hunger 20. Frodo and Tesla hold planks, no checked cell named yet. Holding my 2 jungle planks; no give.
 - dusk 1196: still at the chests, not sheltered, no bed. Staying in group sight through the night, no sleep without a bed or sealed cell. Planks held for a checked cell.
 - 04:58 act: {"say":"Kirk, afternoon 1197. Health and hunger 20. I hold 2 jungle planks for a named, checked cell. I will check any exact x,y,z named in my sight as second viewer. Nobody has named one yet, so I pl
+- 05:28 act: {"say":"Jim here, morning. Health 20, hunger 20, no food. I am at the chests. I will check the food chests north and then head for my dropped tools in daylight, with someone in sight.","actions":[{"do
+- 05:28 act: {"actions":[{"do":"open","at":{"x":-919,"y":71,"z":-3040}}]}
+- 05:29 act: {"actions":[{"do":"withdraw","at":{"x":-919,"y":71,"z":-3040},"item":"bread","count":2}]}
+- 05:29 act: {"actions":[{"do":"withdraw","at":{"x":-918,"y":71,"z":-3040},"item":"carrot","count":2}]}
+- 05:29 act: {"say":"Jim, morning 1199. The chests here are empty of food. I have none and hunger is 20. If anyone has a spare carrot or bread to give, I will take it when we are together in sight."}
+- 05:41 act: {"actions":[],"say":"Jim, midday 1199, new day. Survived the night, health 20, hunger 20. I hold 2 planks and 2 dirt. I will add them to a cell that two of you check. My tools are lost at -970,75,-303
+- 05:46 act: {"actions":[],"say":"Jim, afternoon 1200. I am at -919,71,-3041 and will look at -921,75,-3038 from here. I will say only what I see. I still hold 2 planks for a checked cell."}
+- 05:48 act: {"actions":[],"say":"Kirk, low sun 1200. From -919,71,-3041 I see a gap on my left, not sealed. I name no walled cell. Lovelace first for food; I have none. I hold 2 planks for whoever checks a sealed
