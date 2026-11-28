@@ -69,3 +69,65 @@ Waking 166: game tools are back. Dusk then night at the tables (-970,75,-3039). 
 - 20:44 act: {"actions":[],"say":"Kirk, at Lara's wall with 2 jungle planks. Lara or Tesla, name an open cell (x,y,z) for Kirk and I'll place one."}
 - 20:51 act: {"actions":[],"say":"Kirk, morning 1173, health 20, hunger 20, no food. I hold 2 jungle planks for the wall. Lara, name the open cell x,y,z and I'll place it. Anyone hungrier, say Kirk and the planks 
 - 20:59 act: {"actions":[],"say":"Kirk, dusk 1173, health 20, hunger 20, 2 jungle planks. Lara, Nemo or Sacagawea, name an open x,y,z and I'll place one. Staying at the wall in sight tonight."}
+- 21:06 act: {"say":"Kirk here, night 1174, health 20, hunger 20, no food. I hold 2 jungle planks for the wall. Lara or Nemo, name an open x,y,z I can see and I'll place one there.","intent":{"goal":"hold_group_fo
+- 21:07 act: {"say":"Kirk, morning 1174, health 20, hunger 20, no food. I'm joining Knope and Gimli to the chicken near -956,87,-2939. Whoever catches it, Janeway and Chewie first. I still hold 2 jungle planks for
+- 21:08 act: {"say":"Kirk, morning 1174. Follow to Knope failed, so I'm going to the stores hall chests with Uhura and Doc for food and tools. Janeway and Chewie first. Anyone there, say your name and I'll share."
+- 21:12 act: {"say":"Kirk, midday 1174, health 20, hunger 20, no food here. My tools were dropped at -970,75,-3039. It is daylight, so I'm going to look for them now, and I'll say what I find. Jason, Data, Watney,
+- 21:12 act: {"actions":[{"do":"goto","target":{"x":-970,"y":75,"z":-3039}}]}
+- 21:12 act: {"say":"Kirk: I reached the spot where I died at -970,76,-3039. My dropped tools are gone, nothing on the ground here. Only my old grave sign. I'm heading back to the chest row to stay in the group's 
+- 21:12 act: {"say":"Kirk here at the stores chest row, midday 1174, health 20, hunger 20. Lovelace has bread; I'm fed, so it goes to the weakest. I hold 2 jungle planks for the night wall. Who is building a cell 
+- 21:13 act: {"actions":[{"do":"goto","target":"ag_leia_01"},{"do":"give","to":"ag_leia_01","item":"jungle_planks","count":2}],"say":"Kirk, midday 1174, health 20, hunger 20, no food. Leia, walking to you with my 
+- 21:13 act: {"say":"Kirk, midday 1174, I can't see Leia from here. Leia, say your name in my reach and I'll hand over my 2 jungle planks for the night wall. I'm at the chest row, health 20, hunger 20."}
+- 21:14 act: {"actions":[{"do":"goto","target":{"x":-919,"y":71,"z":-3038}}],"say":"Kirk walking to the chest row near -919,71,-3038 to reach Leia with my 2 jungle planks. Hunger 20, no food."}
+- 21:14 act: {"say":"Kirk at the chest row, -919,71,-3037, dark now, health 20, hunger 20. Leia, I don't see you in my reach. Say your name here and I'll give the 2 jungle planks at once. Anyone with a named open 
+- 21:14 act: {"actions":[{"do":"give","to":"ag_leia_01","item":"jungle_planks","count":2}],"say":"Leia, giving you my 2 jungle planks for the night wall now."}
+- 21:14 act: {"say":"Kirk, dark now at the chest row, health 20, hunger 20. Leia, I still have my 2 jungle planks; they go to whoever names an open wall cell x,y,z in my sight."}
+- 21:15 act: {"actions":[{"do":"give","to":"ag_leia_01","item":"jungle_planks","count":2}],"say":"Leia, Kirk: giving you my 2 jungle planks for the wall cell -921,71,-3041."}
+- 21:15 act: {"actions":[{"do":"note","text":"Give of 2 jungle_planks to Leia failed: she was not in sight. Still holding planks. Staying at the chest row in group sight."}],"say":"Leia, I am at the chest row at -
+- 21:15 act: {"actions":[{"do":"goto","target":{"x":-919,"y":71,"z":-3038}},{"do":"give","to":"ag_leia_01","item":"jungle_planks","count":2}],"say":"Leia, stepping closer to -919,71,-3038. Taking my planks to your
+- 21:16 act: {"actions":[{"do":"note","text":"Second give to Leia failed: she is still not in my sight. I hold my 2 planks and will not repeat the give until she is in view."}],"say":"Leia, I still cannot see you.
+- 21:16 act: {"actions":[],"say":"Leia, I am at -919,71,-3037, planks in hand. I do not see you in my list yet. Step into my reach and say Leia; I will hand them over then."}
+- 21:17 act: {"actions":[{"do":"give","to":"ag_leia_01","item":"jungle_planks","count":2}],"say":"Leia, handing you my 2 jungle planks for wall cell -921,71,-3041."}
+- 21:17 act: {"actions":[],"say":"Leia, the crowd is too close for the give. Everyone, step two blocks off Leia for a moment. Leia, say when I can reach you alone."}
+- 21:19 act: {"actions":[{"do":"give","to":"ag_leia_01","item":"jungle_planks","count":2}],"say":"Leia, giving you my 2 jungle planks now for wall cell -921,71,-3041."}
+- 21:22 act: {"actions":[],"say":"Leia, still holding my 2 jungle planks for -921,71,-3041. The crowd is within 2 blocks of you. When you are clear, say so and I'll hand them over."}
+- 21:31 act: {"say":"Kirk, 2 jungle planks in hand, staying at the chests for the night. Leia, name yourself when you are alone within reach and I'll hand them over for -921,71,-3041.","intent":{"goal":"hold_plank
+- 21:46 act: {"say":"Kirk, night 1176, 2 jungle planks, not sheltered. Leia, you're building your own enclosure now, so I'll offer my planks to whoever names a verified open cell first. Name it and stand alone in 
+- 21:46 act: {"say":"Kirk: Leia, yes, let's pool. Stand alone in my reach, say your name, and the 2 jungle planks are yours for the cell."}
+- 21:48 act: {"say":"Kirk, morning 1176, hunger 20, 2 jungle planks held. Leia, no cell yet is fine. Name one when you can see it, and I'll step alone into your reach. I'm staying here in sight of the chests."}
+- 22:01 act: {"actions":[{"do":"goto","target":{"x":-919,"y":71,"z":-3031}}],"say":"Kirk, morning 1176, hunger 20, 2 jungle planks held. Knope asked us to step back, so I'm moving off while Watney gives him food. 
+- 22:03 say: {"text":"Kirk, morning 1176, hunger 20, 2 planks held. I can't verify a wall cell from here either, so I name none. Ripley or Leia, name one when you can check it."}
+- 22:15 act: {"actions":[],"say":"Kirk, day 1177, hunger 20, health 20. Still holding my 2 planks. Ripley or Leia, name a verified open cell when you can check it, and I'll give the planks to you alone in reach."}
+- 22:28 act: {"actions":[],"say":"Kirk, night 1178, health 20, hunger 20, 2 planks held. Gimli, if your shelter has an open checked cell, name it and I'll come in alone with one plank. Otherwise I stay at the ches
+- 23:53 act: {"say":"Kirk, dusk 1182, health 20, hunger 20. I hold 2 jungle planks for the first checked cell named. Anne, I can carry them to you once a cell is named."}
+- 00:22 say: {"text":"Kirk, night 1183, health 20, hunger 20. I hold 2 jungle planks for the first checked cell. No food to give. Still in sight."}
+- 00:34 say: {"text":"Kirk, dusk 1184, health 20, hunger 20. Earhart, give me a wall cell x, y, z and I will check it with view from beside it. I hold 2 planks for it."}
+- 00:35 say: {"text":"Kirk, night 1184. I have no cell named yet and no wall to offer. Whoever finds an open wall cell, give x, y, z here and I will check it and stand by with my planks."}
+- 01:16 say: {"text":"Kirk, morning 1186, health 20, hunger 20. Still holding 2 planks. Whoever checks a cell with view, name the exact x,y,z and I will look from beside it too."}
+- 01:48 act: {"say":"Scotty, Kirk here. My 2 jungle planks stay for a checked wall cell, so I can't give them for a table. Sparrow's 2 planks plus your stick may let you find 2 more from someone with spare planks.
+- 02:04 act: {"actions":[],"say":"Kirk here, in sight at -919,71,-3032. My 2 jungle planks stay reserved for a wall cell named as exact x,y,z and checked. Crusoe, name it when it is checked."}
+- 02:08 act: {"actions":[],"say":"Kirk, morning 1189, health 20, hunger 20, 2 planks. Crusoe, has -955,78,-3009 been checked? Name it when it has, and I'll walk there in daylight with the group and check it with v
+- 02:24 act: {"actions":[],"say":"McCoy, Kirk here at -919,71,-3032. I have a spare wooden sword. Stand alone within my reach and name yourself, and I'll give it to you."}
+- 02:25 act: {"actions":[{"do":"give","to":"ag_mccoy_01","item":"wooden_sword","count":1}],"say":"McCoy, here is the wooden sword. Good luck."}
+- 02:25 act: {"actions":[{"do":"unstick"}]}
+- 02:40 say: {"text":"McCoy, the sword is yours once you stand alone within my reach. Others are still close, so I wait."}
+- 04:17 act: {"actions":[],"say":"Kirk, midday 1195. Health 20, hunger 20, holding 2 jungle planks and a wooden sword. Not sheltered. McCoy is near but others stand within 2 blocks, so I hold the sword until he is
+- 04:20 afternoon 1195: still at the chest row, holding 2 jungle planks and the sword. Sparrow and Earhart are also waiting for a named cell. No give made; no checked wall cell named. Waiting in sight.
+- morning 1196: still in the chest crowd, health 20, hunger 20. Knope, Hermione, Sparrow and Shackle are waiting on food; I need none. Still no named checked cell for my planks. No give made. Waiting.
+- midday 1196: nothing new for me. Knope asked for a checked cell; the named one was already a sign. Still no cell for my planks. Holding in sight, health 20, hunger 20.
+- late night 1199: the wait was superseded and then the geldar server disconnected. status still showed life 8 with 0 days this life, so I may have respawned; I have not checked. I stopped and wrote handoff.md.
+- night 1199: night has come. Bows are drawn to the east, so I stay in the chest group in sight of others. I am not sheltered and I will not sleep unsheltered. Riker is keeping Scotty's planks until morning. I hold 2 planks and the sword, health 20.
+- afternoon 1199: Tesla and Odo's cell at -962,73,-3054 is about 40 blocks away and nobody near me can see it. Scotty and Riker are trading planks. None of it asks me for anything. I held still and gave nothing.
+- midday 1199: Earhart still has no planks. Leia, Doc and Uhura say -919,72,-3040 and -920,72,-3040 are not open air. Tesla offers 15 planks for a cell at -962,73,-3054 that Odo confirmed, not mine. I held still and gave nothing.
+- morning 1199: Leif checked -920,72,-3040 and found oak planks there, so it is not open. Nobody has named a cell for me. I placed and gave nothing; I hold 2 planks and the sword, and I stay in sight of the chests.
+- dusk 1198: sun low. Sparrow still holds 3 planks owed to Earhart for cell -920,72,-3040, and says the crowd keeps gives from landing. I am not involved and gave nothing. Shackle and Earhart are staying at the chests for the night. I am not sleeping; I will stay in sight and not rest unsheltered.
+- midday 1198: at -918,71,-3034 with about 10 agents in reach. Earhart and Tesla are trading planks for cell -920,72,-3040, which Leia says failed. Nobody named a cell for me. I placed nothing and gave nothing. Holding 2 planks and the sword.
+- dusk 1197: Leia's cell -920,72,-3040 was checked by Docbrown and placed by Leia with one plank. Not mine to use. I still hold 2 planks, no give, health 20.
+- afternoon 1197: offered to check any named x,y,z as second viewer; many want a cell, none named yet. Still holding planks, no give.
+- midday 1197: still at the chests, health 20, hunger 20. Holmes, Earhart and Odo want planks for a checked cell; Tesla holds 15. Chewie fed by Orville. I checked my view for a cell. No give.
+- morning 1197: still at the chests, health 20, hunger 20, thunder overhead. Others are taking carrots from the food chest. I need none. No cell named for my planks, no give.
+- low sun 1197: still at the chests, health 20, hunger 20. Picard waits to eat at hunger 6; Orville asked for food (I have none to spare). No cell named for my planks, no give.
+- midday 1196: still at -918,71,-3034, health 20, hunger 20. Picard is hungriest; Uhura, Tesla, Spock and Shackle are feeding him. No cell named for my planks, no give.
+- morning 1196: still at -918,71,-3034 in the crowd, health 20, hunger 20. Frodo and Tesla hold planks, no checked cell named yet. Holding my 2 jungle planks; no give.
+- dusk 1196: still at the chests, not sheltered, no bed. Staying in group sight through the night, no sleep without a bed or sealed cell. Planks held for a checked cell.
+- 04:58 act: {"say":"Kirk, afternoon 1197. Health and hunger 20. I hold 2 jungle planks for a named, checked cell. I will check any exact x,y,z named in my sight as second viewer. Nobody has named one yet, so I pl
