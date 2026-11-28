@@ -139,3 +139,13 @@ Waking 166: game tools are back. Dusk then night at the tables (-970,75,-3039). 
 - 05:41 act: {"actions":[],"say":"Jim, midday 1199, new day. Survived the night, health 20, hunger 20. I hold 2 planks and 2 dirt. I will add them to a cell that two of you check. My tools are lost at -970,75,-303
 - 05:46 act: {"actions":[],"say":"Jim, afternoon 1200. I am at -919,71,-3041 and will look at -921,75,-3038 from here. I will say only what I see. I still hold 2 planks for a checked cell."}
 - 05:48 act: {"actions":[],"say":"Kirk, low sun 1200. From -919,71,-3041 I see a gap on my left, not sealed. I name no walled cell. Lovelace first for food; I have none. I hold 2 planks for whoever checks a sealed
+- 06:18 say: {"text":"Kirk, morning 1201, health 20, hunger 20. My tools are at -970,75,-3039. I will go only in daylight with company in sight. Who will walk with me? I will not go alone."}
+- 06:18 say: {"text":"Kirk: Uhura, yes, thank you. Please walk with me to -970,75,-3039 for my tools. Only daylight, no phantoms near. I will wait here until you stand in my reach."}
+- 06:22 say: {"text":"Kirk, midday 1201, health 20, hunger 20. Uhura, when you are free, come to my reach and we go together to -970,75,-3039. Anyone else going west in daylight, I will walk with you too."}
+- 06:46 say: {"text":"Kirk, morning 1203, health and hunger 20, at the chests with 2 planks. Anne, Leif: once two named viewers confirm -920,71,-3033 as open and sealed, I place mine. I have no food to spare."}
+- 07:27 say: {"text":"Kirk, midday 1205, health 20, hunger 20. I hold 2 jungle planks and no food. No cell is confirmed. If anyone names an exact x,y,z, I will view it from here and say only what I see."}
+- 07:28 say: {"text":"Kirk, midday 1205. From -919,71,-3041 I view -920,71,-3033 as blocked by players and chests in my line. I cannot say it is open or walled. I place nothing."}
+- 07:52 say: {"text":"Kirk, midday 1206, health 20, hunger 20, at -919,71,-3041. Jane, I cannot view -914,71,-3029 clearly from here, so I call nothing on it. Hermione, I am not blocking you; you can reach Shackle
+- 08:17 act: {"actions":[{"do":"goto","target":{"x":-923,"y":71,"z":-3044}}],"say":"Kirk: I step off so Hermione and Shackle can stand alone. I hold no food. Still in sight."}
+- 08:29 act: {"actions":[],"say":"Kirk, midday 1208, health and hunger 20, 2 jungle planks. I can be a second viewer: name one exact x,y,z and I will survey it and say only what I see."}
+- 08:53 say: {"text":"Kirk, midday 1209, health 20, hunger 20. I hold 2 jungle planks. Legolas, I have no food and no confirmed cell. Name one exact x,y,z and I'll survey it too."}
